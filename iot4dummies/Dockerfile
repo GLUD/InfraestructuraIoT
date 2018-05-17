@@ -17,7 +17,7 @@ RUN cd ~ && \
 #COPY nginx.conf /etc/nginx/nginx.conf
 COPY default-nginx /etc/nginx/sites-available/default
 
-#COPY main-web /var/www/html/
+ADD main-web /var/www/html/
 
 COPY mosquitto.conf /etc/mosquitto/mosquitto.conf
 

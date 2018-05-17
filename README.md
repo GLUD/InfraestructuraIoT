@@ -13,5 +13,23 @@ Para ello buscamos ofrecer una "interfaz" que el cliente consuma por medio de un
 
 + Arquitectura del sistema
 
+![Sin titulo](Arquitectura.png)
+
+## Cliente y Servidor
+
+Para ver la documentación correspondiente a el cliente y el servidor, por favor ingresar a las carpetas respectivas y allí se encontrará la información necesaria.
+
+## Licencia
+
+**GNU GENERAL PUBLIC LICENSE**
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+## Origenes y fuentes
+
+Los archivos gráficos tienen licencia Creative Commons 3.0, software principal como Node-RED y Nginx cuentan con licencia Apache 2.0 y BSD y las demás librerias y recursos son libres y compatibles dentro de la licencia GPL 3.0 establecida para este software.
 
 
